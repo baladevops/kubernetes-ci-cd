@@ -1,5 +1,5 @@
 const constants = {
-  minikubeIp: '192.168.99.100'
+  minikubeIp: '10.0.1.56'
 };
 
 export default constants;
